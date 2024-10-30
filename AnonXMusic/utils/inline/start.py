@@ -27,7 +27,7 @@ def private_panel(_):
             )
         ],
         [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],
-        [InlineKeyboardButton(text="❍ 𝐎ᴡɴᴇʀ ❍",url=f"https://t.me/ll_SARKAR_MERA_BABU_ll",
+        [InlineKeyboardButton(text="❍ 𝐎ᴡɴᴇʀ ❍",url=f"https://t.me/RN_Gupta3",
             ),
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
