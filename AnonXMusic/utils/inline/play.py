@@ -68,10 +68,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/ll_SARKAR_MERA_BABU_ll",
+                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/RN_Gupta3",
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/TG_NAME_STYLE",
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/+k-mc053zHfEwMTU1",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -90,10 +90,10 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/ll_SARKAR_MERA_BABU_ll",
+                text="𝖮𝗐𝗇𝖾𝗋", url="https://t.me/RN_Gupta3",
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/TG_NAME_STYLE",
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍", url="https://t.me/+k-mc053zHfEwMTU1",
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
