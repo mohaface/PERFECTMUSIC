@@ -7,8 +7,8 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("23862688"))
+API_HASH = getenv("9963e329248a0d6eefc0965eac1d7c21")
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SARKAROP123/PERFECTMUSIC",
+    "https://github.com/mohaface/PERFECTMUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+k-mc053zHfEwMTU1")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+k-mc053zHfEwMTU1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/knmusic_moha@")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+otpWOeeP_Qg2OWJk")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -78,7 +78,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/2b3e02ec196fd4d5c5692-d790cd06a6d0371ccd.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/vh8n73.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg"
